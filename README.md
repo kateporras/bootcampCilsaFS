@@ -1,2 +1,3 @@
 # bootcampCilsaFS
-Proyecto BootCilsaFS
+Proyecto:  Desarrollo de un sitio web para una tienda online
+
