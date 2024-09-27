@@ -1,0 +1,43 @@
+.carousel-item img {
+    width:"800" ;
+    height:"600";
+   
+    
+}
+#contenedorOFF{
+    padding-top: 20px; 
+    padding-left: 50px; 
+    padding-right: 50px; 
+    padding-bottom: 20px;
+
+}
+
+.col {
+    transition: transform 0.3s ease-in-out;
+    position: relative;
+    z-index: 1;
+}
+
+.col:hover {
+    transform: scale(1.3);
+    z-index: 10;
+    
+}
+.btnCanasta img{
+    height:60px;
+    width:70px;
+}
+.btnCanasta{
+    border: none;
+    border-radius: 15px;
+    background-color: #ffffff
+}
+.btnCanasta:hover  {
+    background-color: #3e8e41
+}
+  
+.btnCanasta:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
